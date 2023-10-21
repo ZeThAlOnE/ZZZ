@@ -1,0 +1,5 @@
+voluptuous
+homeassistant
+ipaddress
+scapy
+PyRoxy
